@@ -1,4 +1,6 @@
-/* styles.css */
+*{
+  margin: 20px;
+}
 
 div {
   color: white;
@@ -6,37 +8,5 @@ div {
 }
 
 p {
-  color: red;
+  color: black;
 }
-/* <style>
-        *{
-          margin: 20px;
-        }
-        body {
-          background-color: whitesmoke;
-        }
-        h1 {
-          color: black;
-          font-family: Arial, sans-serif;
-          text-align: center;
-        }
-        h2 {
-          color: black;
-          font-family: Arial, sans-serif;
-          text-align: justify;
-        }
-        p {
-          color: black;
-          font-family: Arial, sans-serif;
-          font-size: 18px;
-          padding: 10px;
-          text-align: justify;
-        }
-        div.bold-text {
-          font-weight: 700;
-        }
-
-        .alert-text {
-          color: red;
-        }
-      </style> */
